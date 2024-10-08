@@ -2,6 +2,9 @@
 user service of poll system.
 the polls service in https://github.com/hodaya7/poll-system---polls.git
 
+Project Overview
+Polls System is designed to create a platform where a company can ask its customers various questions, analyze the responses, and generate statistics about the data. The system includes separate services for managing users, questions, and poll answers. This implementation includes three main REST APIs: Users, Questions, and Poll Answers, each with full CRUD operations.
+
 Pay attention to the sdk ![image](https://github.com/user-attachments/assets/e0d68568-b325-468b-9223-5cdd78a9b64c)
 
 API
